@@ -1,15 +1,17 @@
-## Finnish data
-
 This is the raw data relating to [Eerola and Vuoskoski
 (2011)](https://journals.sagepub.com/doi/10.1177/0305735610362821) film
 soundtrack data where a number of participants rated film soundtracks on
 basic emotions and dimensional emotion concepts. The data is available
 in two files, one for the Finnish participants (Eerola & Vuoskoski,
 2011) and one for the Spanish participants ([Fuentes-Sánchez et al.,
-2020](https://doi.org/10.1177/0305735620958464)). The Finnish data has
-been merged from two separate experiments (discrete and dimensional
-emotion ratings). Similar ratings have also been obtained in a study
-with French participants ([Nineuil et al.,
+2020](https://doi.org/10.1177/0305735620958464)). The Finnish data
+(means) and stimuli can be found at <https://osf.io/p6vkg/>.
+
+## Finnish data
+
+The Finnish data has been merged from two separate experiments (discrete
+and dimensional emotion ratings). Similar ratings have also been
+obtained in a study with French participants ([Nineuil et al.,
 2022](https://doi.org/10.1177/03057356211050683)).
 
 Variables in the data:
